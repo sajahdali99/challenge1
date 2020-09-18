@@ -1,4 +1,4 @@
-# challenge1
+# Challenge1
 - What was the challenge?
 The challenge was to write a functioning script that could write its own script, the second script was to be called run.sh and in which it used an echo command. The first script was to make a group and a user, add the user to the group, give the user and group the power to execute certain priveledges.
 - How I expected the challenge to go.
